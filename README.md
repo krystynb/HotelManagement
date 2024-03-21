@@ -11,5 +11,6 @@ Some potential actions are:
 - finding the hotel in which a guest is staying, if at all
 - removing guests from hotels
 - listing the number of guests at a particular hotel
+- considers a guest's position when registering them at a hotel
 - and more!
 
